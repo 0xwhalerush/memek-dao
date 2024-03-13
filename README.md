@@ -1,4 +1,4 @@
 GMMMM Everyone
 
 
-First, now we build DAO ecosystem with app, this very simple 
+First, now we build DAO ecosystem with gaming, this very simple 
